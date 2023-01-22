@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home | Jie An</title>
+    <link>https://leslieaj.gitee.io/fullpublications/</link>
+    <description>Recent content on Home | Jie An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://leslieaj.gitee.io/fullpublications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active learning of One-Clock Timed Automata using Constraint Solving</title>
+      <link>https://leslieaj.gitee.io/fullpublications/atva2022a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslieaj.gitee.io/fullpublications/atva2022a/</guid>
+      <description>Abstract Active automata learning in the framework of Angluin&amp;rsquo;s $ L^* $ algorithm has been applied to learning many kinds of automata models. In applications to timed models such as timed automata, the main challenge is to determine guards on the clock value in transitions as well as which transitions reset the clock. In this paper, we introduce a new algorithm for active learning of deterministic one-clock timed automata and timed Mealy machines.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Home | Jie An</title>
+    <link>https://leslieaj.gitee.io/publications/</link>
+    <description>Recent content in Publications on Home | Jie An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leslieaj.gitee.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active learning of One-Clock Timed Automata using Constraint Solving</title>
+      <link>https://leslieaj.gitee.io/publications/atva2022a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslieaj.gitee.io/publications/atva2022a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Deterministic One-Clock Timed Automata via Mutation Testing</title>
+      <link>https://leslieaj.gitee.io/publications/atva2022b/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslieaj.gitee.io/publications/atva2022b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

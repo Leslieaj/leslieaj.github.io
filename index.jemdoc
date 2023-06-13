@@ -18,7 +18,7 @@ My current research interests include
 - Programming Languages
 
 == Publications
-# - Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2023). \n *Online Causation Monitoring of Signal Temporal Logic* \n In: /International Conference on Computer Aided Verification (*CAV 2023*), / to apear. \n \[[https://doi.org/10.5281/zenodo.7878196 artifact]\]
+- Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2023). \n *Online Causation Monitoring of Signal Temporal Logic* \n In: /International Conference on Computer Aided Verification (*CAV 2023*), / Accepted. \n \[[https://leslieaj.github.io/paper/CAV23.pdf Paper]\] \[[https://arxiv.org/pdf/2305.17754.pdf Full version on arXiv]\] (*Artifact Evaluated*)
 # === 2022
 - Runqing Xu, Jie An, Bohua Zhan (2022). \n *Active learning of One-Clock Timed Automata using Constraint Solving.* \n In: /International Symposium on Automated Technology for Verification and Analysis (*ATVA 2022*), / pages 249-265. \n \[[https://leslieaj.github.io/paper/ATVA22-1.pdf Paper]\] \[[https://arxiv.org/pdf/2208.00412.pdf Full version on arXiv]\]
 - Xiaochen Tang, Wei Shen, Miaomiao Zhang, Jie An, Bohua Zhan, Naijun Zhan (2022). \n *Learning Deterministic One-Clock Timed Automata via Mutation Testing.* \n In: /International Symposium on Automated Technology for Verification and Analysis (*ATVA 2022*), / pages 233-248. \n \[[https://leslieaj.github.io/paper/ATVA22-2.pdf Paper]\]

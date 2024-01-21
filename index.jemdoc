@@ -18,7 +18,9 @@ My current research interests include
 - Programming Languages
 
 == Publications
-- Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2023). \n *Online Causation Monitoring of Signal Temporal Logic* \n In: /International Conference on Computer Aided Verification (*CAV 2023*), / Accepted. \n \[[https://leslieaj.github.io/paper/CAV23.pdf Paper]\] \[[https://arxiv.org/pdf/2305.17754.pdf Full version on arXiv]\] (*Artifact Evaluated*)
+- Yu Teng, Miaomiao Zhang, Jie An (2024). \n *Learning Deterministic Multi-Clock Timed Automata* \n In: /International Conference on Hybrid Systems: Computation and Control (*HSCC 2024*). / Accepted.
+# === 2023
+- Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2023). \n *Online Causation Monitoring of Signal Temporal Logic* \n In: /International Conference on Computer Aided Verification (*CAV 2023*), / pages 62-84. \n \[[https://leslieaj.github.io/paper/CAV23.pdf Paper]\] \[[https://arxiv.org/pdf/2305.17754.pdf Full version on arXiv]\] (*Artifact Evaluated*)
 # === 2022
 - Runqing Xu, Jie An, Bohua Zhan (2022). \n *Active learning of One-Clock Timed Automata using Constraint Solving.* \n In: /International Symposium on Automated Technology for Verification and Analysis (*ATVA 2022*), / pages 249-265. \n \[[https://leslieaj.github.io/paper/ATVA22-1.pdf Paper]\] \[[https://arxiv.org/pdf/2208.00412.pdf Full version on arXiv]\]
 - Xiaochen Tang, Wei Shen, Miaomiao Zhang, Jie An, Bohua Zhan, Naijun Zhan (2022). \n *Learning Deterministic One-Clock Timed Automata via Mutation Testing.* \n In: /International Symposium on Automated Technology for Verification and Analysis (*ATVA 2022*), / pages 233-248. \n \[[https://leslieaj.github.io/paper/ATVA22-2.pdf Paper]\]
@@ -62,18 +64,21 @@ My current research interests include
 
 == Academic Services & TA
 === Academic Services
-- External reviewer
+- Conference reviewer
+-- [https://etaps.org/2024/conferences/fase/ FASE 2024], [https://etaps.org/2024/conferences/fossacs/ FoSSaCS 2024].
 -- [https://fm2023.isp.uni-luebeck.de/ FM 2023], [https://hscc.acm.org/2023/ HSCC 2023], [https://etaps.org/2023/tacas TACAS 2023].
 -- [https://2022.ecoop.org/ ECOOP 2022], [https://iccps.acm.org/2022/ ICCPS 2022], [http://2022.rtss.org/ RTSS 2022], [https://www.cs.ubbcluj.ro/tase2022/ TASE 2022].
 -- [https://sites.uclouvain.be/adhs21/index.html ADHS 2021], [http://i-cav.org/2021/ CAV 2021], [https://www.esweek.org/emsoft EMSOFT 2021], [https://lcs.ios.ac.cn/fm2021/ FM 2021], [https://hscc.acm.org/2021/ HSCC 2021], [https://tase2021.github.io/ TASE 2021].
 -- [https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html HSCC 2020], [https://ifm20.si.usi.ch/ iFM 2020], [http://2020.rtss.org/ RTSS 2020], [https://sei.ecnu.edu.cn/tase2020/ TASE 2020].
 -- [https://www.esweek.org/emsoft/about EMSOFT 2019], [http://csse.szu.edu.cn/icfem2019/ ICFEM 2019], [http://2019.rtss.org/ RTSS 2019].
+- Organization committee 
+-- [https://atva-conference.org/2024/ ATVA 2024] (Publicity Chair), [https://www.qest-formats.org/ QEST+FORMATS 2024] (Publicity Co-Chair).
+-- [http://lcs.ios.ac.cn/ssfm/ssfm2018/index.html SSFM 2018], [http://lcs.ios.ac.cn/ssfm/index.html SSFM 2019] (the Summer School on Formal Methods at the State Key Lab. of Computer Science, Institute of Software, Chinese Academy of Sciences).
 - Artifact Evaluation Committee / Posters and Demos Committee
 -- [http://www.i-cav.org/2023/ CAV 2023], [https://hscc.acm.org/2023/ HSCC2023].
 -- [https://2022.ecoop.org/ ECOOP 2022], [https://hscc.acm.org/2022/ HSCC 2022].
 - Journal reviewer
 -- [https://dl.acm.org/journal/tosem TOSEM], [https://www.sciencedirect.com/journal/ifac-journal-of-systems-and-control IFAC Journal of System and Control], [https://www.springer.com/journal/11241 Real-Time Systems].
-- Organization committee member of [http://lcs.ios.ac.cn/ssfm/ssfm2018/index.html SSFM 2018], [http://lcs.ios.ac.cn/ssfm/index.html SSFM 2019] (the Summer School on Formal Methods at the State Key Lab. of Computer Science, Institute of Software, Chinese Academy of Sciences).
 - Volunteer of [http://confesta2018.csp.escience.cn/ CONFESTA 2018].
 === TA
 - Formal methods in software engineering. Autumn 2015 (for M.S. students).

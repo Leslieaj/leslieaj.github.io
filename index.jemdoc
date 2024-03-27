@@ -18,7 +18,8 @@ My current research interests include
 - Programming Languages
 
 == Publications
-- Yu Teng, Miaomiao Zhang, Jie An (2024). \n *Learning Deterministic Multi-Clock Timed Automata* \n In: /International Conference on Hybrid Systems: Computation and Control (*HSCC 2024*). / Accepted.
+- Sota Sato, Jie An, Zhenya Zhang, Ichiro Hasuo (2024). \n *Optimization-Based Model Checking and Trace Synthesis for Complex STL Specifications* \n In: /International Conference on Computer Aided Verification (*CAV 2024*) /. \n \[[https://leslieaj.github.io Accepted]\].
+- Yu Teng, Miaomiao Zhang, Jie An (2024). \n *Learning Deterministic Multi-Clock Timed Automata* \n In: /International Conference on Hybrid Systems: Computation and Control (*HSCC 2024*). / \n \[[https://leslieaj.github.io Accepted]\].
 # === 2023
 - Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2023). \n *Online Causation Monitoring of Signal Temporal Logic* \n In: /International Conference on Computer Aided Verification (*CAV 2023*), / pages 62-84. \n \[[https://leslieaj.github.io/paper/CAV23.pdf Paper]\] \[[https://arxiv.org/pdf/2305.17754.pdf Full version on arXiv]\] (*Artifact Evaluated*)
 # === 2022

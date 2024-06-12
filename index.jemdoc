@@ -3,11 +3,14 @@
 
 ~~~
 {}{img_left}{./images/92065982.jpg}{photo}{215px}{220px}{}
-I am a Project Assistant Professor at [https://www.nii.ac.jp/en/ National Institute of Informatics (NII)] in Tokyo, Japan. I work in the project [https://www.jst.go.jp/erato/hasuo/en/ ERATO MMSD] headed by Prof.Dr. [https://group-mmm.org/~ichiro/ Ichiro Hasuo]. \n\n From November 2020 to October 2022, I was a postdoctoral researcher working in the Rigorous Software Engineering Group headed by Prof.Dr. [https://people.mpi-sws.org/~rupak/ Rupak Majumdar] \n at [https://www.mpi-sws.org/ Max Planck Institute for Software Systems (MPI-SWS)] in Kaiserslautern, Germany. \n\n
-I obtained my PhD degree in Software Engineering from [https://en.tongji.edu.cn/ School of Software Engineering, Tongji University] in July 2020. (advisors: [http://sse.tongji.edu.cn/Data/View/2827 Miaomiao Zhang] and [http://lcs.ios.ac.cn/~znj/ Naijun Zhan]). \n Before that, I also obtained my Bachelor degree and Master degree both in Software Engineering from the same university. \n
+I am an Associate Research Professor at the [https://www.is.cas.cn/, Institute of Software, Chinese Academy of Sciences (ISCAS)], Beijing, China. \n\n 
+From October 2022 to May 2024, I was a Project Researcher and later a Project Assistant Professor at [https://www.nii.ac.jp/en/ National Institute of Informatics (NII)] in Tokyo, Japan, working in the project [https://www.jst.go.jp/erato/hasuo/en/ ERATO MMSD] headed by Prof.Dr. [https://group-mmm.org/~ichiro/ Ichiro Hasuo]. 
+From November 2020 to October 2022, I was a Postdoctoral Researcher working in the Rigorous Software Engineering Group headed by Prof.Dr. [https://people.mpi-sws.org/~rupak/ Rupak Majumdar] at [https://www.mpi-sws.org/ Max Planck Institute for Software Systems (MPI-SWS)] in Kaiserslautern, Germany. 
+I obtained my PhD degree in Software Engineering from [https://en.tongji.edu.cn/ School of Software Engineering, Tongji University] in July 2020. (advisors: [http://sse.tongji.edu.cn/Data/View/2827 Miaomiao Zhang] and [http://lcs.ios.ac.cn/~znj/ Naijun Zhan]). 
+Before that, I also obtained my Bachelor degree and Master degree both in Software Engineering from the same university. 
 From 2017 to 2020, I was also a visiting PhD student at [http://lcs.ios.ac.cn/index.php/en/ SKLCS, Institute of Software, Chinese Academy of Sciences] where I was advised by Prof.Dr. [http://lcs.ios.ac.cn/~znj/ Naijun Zhan].\n\n
-(jiean\[@\]nii\[DOT\]ac\[DOT\]jp)\n\n
-[https://github.com/Leslieaj Github]
+Email:~ anjie\[@\]iscas\[DOT\]ac\[DOT\]cn \n\n
+[https://github.com/Leslieaj Github] ~~ [https://dblp.org/pid/145/0655-1.html DBLP] ~~ [https://scholar.google.com/citations?user=_9jzD80AAAAJ&hl=en Google Scholar] ~~ [https://orcid.org/0000-0001-9260-9697 ORCID]
 ~~~
 
 == Research Interests
@@ -18,10 +21,12 @@ My current research interests include
 - Programming Languages
 
 == Publications
-- Sota Sato, Jie An, Zhenya Zhang, Ichiro Hasuo (2024). \n *Optimization-Based Model Checking and Trace Synthesis for Complex STL Specifications* \n In: /International Conference on Computer Aided Verification (*CAV 2024*) /. \n \[[https://leslieaj.github.io Accepted]\].
-- Yu Teng, Miaomiao Zhang, Jie An (2024). \n *Learning Deterministic Multi-Clock Timed Automata* \n In: /International Conference on Hybrid Systems: Computation and Control (*HSCC 2024*). / \n \[[https://dl.acm.org/doi/abs/10.1145/3641513.3650124 Paper]\] \[[https://arxiv.org/pdf/2404.07823 Full version on arXiv]\].
+- Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2024). \n *CauMon: An Informative Online Monitor for Signal Temporal Logic.* \n In: /International Symposium on Formal Methods (*FM 2024*)/. \n \[[https://leslieaj.github.io Accepted]\]. 
+- Jie An, Qiang Gao, Lingtai Wang, Naijun Zhan, Ichiro Hasuo (2024). \n *The Opacity of Timed Automata.* \n In: /International Symposium on Formal Methods (*FM 2024*)/. \n \[[https://leslieaj.github.io Accepted]\]. 
+- Sota Sato, Jie An, Zhenya Zhang, Ichiro Hasuo (2024). \n *Optimization-Based Model Checking and Trace Synthesis for Complex STL Specifications.* \n In: /International Conference on Computer Aided Verification (*CAV 2024*) /. \n \[[https://leslieaj.github.io Accepted]\].
+- Yu Teng, Miaomiao Zhang, Jie An (2024). \n *Learning Deterministic Multi-Clock Timed Automata.* \n In: /International Conference on Hybrid Systems: Computation and Control (*HSCC 2024*), / pages 6:1-6:11. \n \[[https://dl.acm.org/doi/abs/10.1145/3641513.3650124 Paper]\] \[[https://arxiv.org/pdf/2404.07823 Full version on arXiv]\].
 # === 2023
-- Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2023). \n *Online Causation Monitoring of Signal Temporal Logic* \n In: /International Conference on Computer Aided Verification (*CAV 2023*), / pages 62-84. \n \[[https://leslieaj.github.io/paper/CAV23.pdf Paper]\] \[[https://arxiv.org/pdf/2305.17754.pdf Full version on arXiv]\] (*Artifact Evaluated*)
+- Zhenya Zhang, Jie An, Paolo Arcaini, Ichiro Hasuo (2023). \n *Online Causation Monitoring of Signal Temporal Logic.* \n In: /International Conference on Computer Aided Verification (*CAV 2023*), / pages 62-84. \n \[[https://leslieaj.github.io/paper/CAV23.pdf Paper]\] \[[https://arxiv.org/pdf/2305.17754.pdf Full version on arXiv]\] (*Artifact Evaluated*)
 # === 2022
 - Runqing Xu, Jie An, Bohua Zhan (2022). \n *Active learning of One-Clock Timed Automata using Constraint Solving.* \n In: /International Symposium on Automated Technology for Verification and Analysis (*ATVA 2022*), / pages 249-265. \n \[[https://leslieaj.github.io/paper/ATVA22-1.pdf Paper]\] \[[https://arxiv.org/pdf/2208.00412.pdf Full version on arXiv]\]
 - Xiaochen Tang, Wei Shen, Miaomiao Zhang, Jie An, Bohua Zhan, Naijun Zhan (2022). \n *Learning Deterministic One-Clock Timed Automata via Mutation Testing.* \n In: /International Symposium on Automated Technology for Verification and Analysis (*ATVA 2022*), / pages 233-248. \n \[[https://leslieaj.github.io/paper/ATVA22-2.pdf Paper]\]
@@ -66,7 +71,7 @@ My current research interests include
 == Academic Services & TA
 === Academic Services
 - Conference reviewer
--- [https://etaps.org/2024/conferences/fase/ FASE 2024], [https://etaps.org/2024/conferences/fossacs/ FoSSaCS 2024], [https://lics.siglog.org/lics24/ LICS 2024].
+-- [https://esweek.org/emsoft/ EMSOFT 2024], [https://etaps.org/2024/conferences/fase/ FASE 2024], [https://etaps.org/2024/conferences/fossacs/ FoSSaCS 2024], [https://lics.siglog.org/lics24/ LICS 2024].
 -- [https://fm2023.isp.uni-luebeck.de/ FM 2023], [https://hscc.acm.org/2023/ HSCC 2023], [https://etaps.org/2023/tacas TACAS 2023].
 -- [https://2022.ecoop.org/ ECOOP 2022], [https://iccps.acm.org/2022/ ICCPS 2022], [http://2022.rtss.org/ RTSS 2022], [https://www.cs.ubbcluj.ro/tase2022/ TASE 2022].
 -- [https://sites.uclouvain.be/adhs21/index.html ADHS 2021], [http://i-cav.org/2021/ CAV 2021], [https://www.esweek.org/emsoft EMSOFT 2021], [https://lcs.ios.ac.cn/fm2021/ FM 2021], [https://hscc.acm.org/2021/ HSCC 2021], [https://tase2021.github.io/ TASE 2021].

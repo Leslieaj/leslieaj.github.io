@@ -1,0 +1,83 @@
+p {text-align: justify;}
+
+.profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 50%;
+    /* box-shadow: 0 0 2px 2px #dfdfdf; */
+    /* border: 1px solid #ddd; */
+    /* padding: 5px; */
+}
+
+.main_color {
+    color:purple;
+}
+
+.bib_hidden {
+    display: none;
+}
+
+#address {
+    display:inline-block;
+}
+
+#address p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#visitors{
+    float: right;
+    /* display:inline-block; */
+    
+}
+
+
+.md-typeset {
+    /* -webkit-print-color-adjust: exact; */
+    /* color-adjust: exact; */
+    font-size: .7rem;
+    line-height: 1.5;
+}
+
+.md-typeset .publication-button {
+    border: 0.05rem solid;
+    border-radius: 0.4rem;
+    color: var(--md-primary-fg-color);
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    padding: 0.1em 0.1em;
+    transition: color 125ms,background-color 125ms,border-color 125ms;
+}
+
+.md-copyright__modify {
+    font-size: .6rem;
+    line-height: 1.5;
+    display: block;
+    color: #ffffffb3;
+    padding-top: 16.5px;
+}
+
+
+.label {
+    display: inline;
+    padding: 0.2em 0.6em 0.3em;
+    font-size: 75%;
+    color: #fff;
+    border-radius: 0.25em;
+}
+
+.label-success {
+    background-color: #5cb85c;
+}
+
+.label a {
+    color: #fff;
+}
+
+.github {
+    font-size: 1.1em;
+}
